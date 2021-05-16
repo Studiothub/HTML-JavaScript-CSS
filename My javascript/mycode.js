@@ -1,0 +1,1 @@
+alert("xin chao tu js bên ngoài")
